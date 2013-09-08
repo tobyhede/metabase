@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "metabase": {
+      "path": "."
+    },
+    "postgresql": {
+      "locked_version": "3.0.1",
+      "git": "git@github.com:tobyhede/postgresql.git",
+      "ref": "16b4019f58c75045eed4e82d64292c1ba3293a60"
+    },
+    "apt": {
+      "locked_version": "2.0.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "openssl": {
+      "locked_version": "1.0.0"
+    }
+  }
+}
