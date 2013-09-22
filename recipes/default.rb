@@ -9,4 +9,5 @@ include_recipe "apt"
 
 
 include_recipe "metabase::postgresql"
+include_recipe "metabase::cassandra"
 
