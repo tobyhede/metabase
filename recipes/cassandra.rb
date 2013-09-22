@@ -6,3 +6,5 @@
 #
 
 node.set[:cassandra][:version] = "2.0"
+
+include_recipe "cassandra::datastax"

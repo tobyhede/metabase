@@ -8,6 +8,11 @@
       "git": "git@github.com:tobyhede/postgresql.git",
       "ref": "16b4019f58c75045eed4e82d64292c1ba3293a60"
     },
+    "cassandra": {
+      "locked_version": "1.0.0",
+      "git": "git@github.com:tobyhede/cassandra-chef-cookbook.git",
+      "ref": "2a88324077e455ecf086b5dc7693c5d217682851"
+    },
     "apt": {
       "locked_version": "2.0.0"
     },
@@ -16,6 +21,15 @@
     },
     "openssl": {
       "locked_version": "1.0.0"
+    },
+    "java": {
+      "locked_version": "1.13.0"
+    },
+    "windows": {
+      "locked_version": "1.10.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
     }
   }
 }
