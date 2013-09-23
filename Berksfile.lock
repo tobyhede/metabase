@@ -11,7 +11,7 @@
     "cassandra": {
       "locked_version": "1.0.0",
       "git": "git@github.com:tobyhede/cassandra-chef-cookbook.git",
-      "ref": "2a88324077e455ecf086b5dc7693c5d217682851"
+      "ref": "c1bec55294798ed34134de25d31c2104b30e144a"
     },
     "apt": {
       "locked_version": "2.0.0"
