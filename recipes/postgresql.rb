@@ -5,7 +5,7 @@
 # Copyright 2013, Toby Hede
 #
 
-node.set["postgresql"]["version"] = "9.2"
+node.set["postgresql"]["version"] = "9.3"
 node.set["postgresql"]["enable_pgdg_apt"] = true
 node.set["postgresql"]["password"] = {postgres: "pwd"}
 node.set["postgresql"]["config"] = {
