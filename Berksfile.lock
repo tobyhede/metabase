@@ -11,7 +11,12 @@
     "cassandra": {
       "locked_version": "1.0.0",
       "git": "git@github.com:tobyhede/cassandra-chef-cookbook.git",
-      "ref": "a2bfb50d4485ec41ae59b0e69c2ab842c12b7e08"
+      "ref": "e447e3c15ef3cd05e1e57f9485be2fd66bb41231"
+    },
+    "java": {
+      "locked_version": "1.13.1",
+      "git": "git@github.com:opscode-cookbooks/java.git",
+      "ref": "c6ef8a7d938edff1c8ac5c1af24026575d32af8c"
     },
     "apt": {
       "locked_version": "2.0.0"
@@ -22,14 +27,14 @@
     "openssl": {
       "locked_version": "1.0.0"
     },
-    "java": {
-      "locked_version": "1.13.0"
-    },
     "windows": {
       "locked_version": "1.10.0"
     },
     "chef_handler": {
       "locked_version": "1.1.4"
+    },
+    "aws": {
+      "locked_version": "0.101.2"
     }
   }
 }
