@@ -13,4 +13,6 @@ node.set["cassandra"]["version"] = "2.0"
 node.set["cassandra"]["package_version"] = "dsc20"
 
 include_recipe "java::default"
-include_recipe "cassandra::datastax"
+include_recipe "cassandra::tarball"
+
+
